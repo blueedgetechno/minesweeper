@@ -2,18 +2,18 @@
   "name": "minesweeper",
   "main": "./lib/minesweeper",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A classic game of minesweeper for atom text editor",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "minesweeper:toggle"
   },
-  "repository": "https://github.com/atom/minesweeper",
+  "repository": "https://github.com/blueedgetechno/minesweeper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "p5": "^1.1.9",
-    "react-p5": "^1.3.6",
+    "react-p5": "^1.3.6"
   }
 }
