@@ -1,0 +1,19 @@
+{
+  "name": "minesweeper",
+  "main": "./lib/minesweeper",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "minesweeper:toggle"
+  },
+  "repository": "https://github.com/atom/minesweeper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "p5": "^1.1.9",
+    "react-p5": "^1.3.6",
+  }
+}
