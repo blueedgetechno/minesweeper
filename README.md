@@ -4,4 +4,4 @@
 
 A classic game of minesweeper for atom text editor.
 
-![A screenshot of your package]("mine.gif")
+![A screenshot of your package](mine.gif)
