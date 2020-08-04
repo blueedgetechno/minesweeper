@@ -1,5 +1,6 @@
 # Minesweeper package for atom text editor
 [![APM version](https://img.shields.io/apm/v/minesweeper?style=flat-square)](https://atom.io/packages/minesweeper)
+[![APM downloads](https://img.shields.io/apm/dm/minesweeper?style=flat-square)](https://atom.io/packages/minesweeper)
 [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
 
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://atom.io/)
