@@ -1,7 +1,7 @@
 {
   "name": "minesweeper",
   "main": "./lib/minesweeper",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A classic game of minesweeper for atom text editor",
   "keywords": [],
   "activationCommands": {
