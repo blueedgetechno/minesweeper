@@ -11,7 +11,10 @@
 <br>
 A classic game of minesweeper right in your favourite text editor.
 <br><br>
-```apm install minesweeper ```
+
+```
+  apm install minesweeper
+```
 <br><br>
 
 ![A screenshot of your package](https://raw.githubusercontent.com/blueedgetechno/minesweeper/master/mine.gif)
